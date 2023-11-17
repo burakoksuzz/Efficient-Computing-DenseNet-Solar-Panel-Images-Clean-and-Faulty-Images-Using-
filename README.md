@@ -15,3 +15,4 @@ Bird-drop: This directory has images of bird-drop on solar panels
 Electrical-damage: This directory has images of electrical-damage solar panels
 Physical-Damage: This directory has images of physical-damage solar panels
 Snow-Covered: This directory has images of snow-covered on solar panels
+Kaggle Dataset Link : https://www.kaggle.com/datasets/pythonafroz/solar-panel-images
