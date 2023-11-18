@@ -1,18 +1,44 @@
-# Solar-Panel-Images-Clean-and-Faulty-Images-Using-MobileNetV3-Efficient-Computing-
-About Dataset
+Solar Panel Surface Classifier
+Overview
+This project aims to classify various surface conditions of solar panels using deep learning models. The models are trained to identify and classify different states such as clean, dusty, bird-dropped, electrical damage, physical damage, and snow-covered surfaces on solar panels.
 
-The accumulation of dust, snow, bird drops etc. on the surface of solar panels reduces the efficiency of the solar modules and hence the amount of produced energy. Monitoring and cleaning solar panels is a crucial task, hence developing an optimal procedure to monitor and clean these panels is very important in order to increase modules efficiency, reduce maintenance cost and reducing the use of resources.
+Data Source: https://www.kaggle.com/datasets/pythonafroz/solar-panel-images
 
-The objective of this dataset is to investigate the ability of different machine learning classifiers to detect dust, snow, bird drops, physical and electrical on solar panel surfaces with the highest possible accuracy.
+image
 
-About this directory
+Models and Results
+The project experimented with three different deep learning architectures:
 
-This directory contains six different class folders to classify between. Since the images were scraped from the internet, there is a slight imbalance in the number of images collected.
+DenseNet121
+EfficientNetB0
+VGG
+Each model was trained and evaluated on the dataset, achieving the following results:
 
-Clean: This directory has images of clean solar panels
-Dusty: This directory has images of dusty solar panels
-Bird-drop: This directory has images of bird-drop on solar panels
-Electrical-damage: This directory has images of electrical-damage solar panels
-Physical-Damage: This directory has images of physical-damage solar panels
-Snow-Covered: This directory has images of snow-covered on solar panels
-Kaggle Dataset Link : https://www.kaggle.com/datasets/pythonafroz/solar-panel-images
+- DenseNet121:
+image image image image
+
+- EfficientNetB0:
+image image image image
+
+- VGG:
+image image image image
+
+The comparison indicates that DenseNet121 performed slightly better than the other models in accurately classifying various surface conditions.
+
+Dataset and Classes
+The dataset used in this project consists of images scraped from the internet. It includes six different classes:
+
+Clean
+Dusty
+Bird-drop
+Electrical Damage
+Physical Damage
+Snow-covered
+Usage and Installation
+To use this project, follow these steps:
+
+Clone the repository.
+Install the necessary dependencies.
+Run the model training script.
+Conclusion and Recommendations
+The developed model showcases promising accuracy in classifying surface conditions of solar panels. Further improvements could involve data augmentation techniques and fine-tuning hyperparameters to enhance the model's robustness and generalization.
