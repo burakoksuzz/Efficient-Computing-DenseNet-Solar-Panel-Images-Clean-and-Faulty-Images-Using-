@@ -23,3 +23,5 @@ This directory contains six different class folders to classify between. Since t
 ![283847737-b902e6f3-969a-4fa3-86f9-e3a5df4da459](https://github.com/burakoksuzz/Solar-Panel-Images-Clean-and-Faulty-Images-Using-MobileNetV3-Efficient-Computing-/assets/126331014/ce0d3bac-88d8-481b-b12b-162a6d55d624)
 ![283847703-61ed1e9d-2348-43fe-8f08-7a765a9ddcfb](https://github.com/burakoksuzz/Solar-Panel-Images-Clean-and-Faulty-Images-Using-MobileNetV3-Efficient-Computing-/assets/126331014/20f4ded6-2d8e-45f4-88e8-bfb98c04f19a)
 ![283847639-5a9b9ced-e118-4d44-83d1-3d19e16e7b57](https://github.com/burakoksuzz/Solar-Panel-Images-Clean-and-Faulty-Images-Using-MobileNetV3-Efficient-Computing-/assets/126331014/8c59521d-c20d-4748-a25f-47e45890ee3d)
+###Arif Basaran : https://github.com/ariffbasaran
+### Thanks to Arif Başara for his contributions.
